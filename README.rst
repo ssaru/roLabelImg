@@ -106,6 +106,7 @@ OS X
 
 (https://github.com/tzutalin/labelImg/issues/211)
 (https://github.com/cartr/homebrew-qt4)
+`brew install qt-webkit@2.3`
 
 .. code::
 
