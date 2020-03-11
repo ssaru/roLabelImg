@@ -101,9 +101,10 @@ Ubuntu Linux
     ./labelImg.py
     ./labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
 
-(https://github.com/tzutalin/labelImg/issues/211)
-OS X
+OS X 
 ^^^^
+
+(https://github.com/tzutalin/labelImg/issues/211)
 
 .. code::
 
