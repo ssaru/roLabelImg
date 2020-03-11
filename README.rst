@@ -104,12 +104,8 @@ Ubuntu Linux
 OS X 
 ^^^^
 
-`brew install cartr/qt4/pyqt@4`
+https://github.com/tzutalin/labelImg 참고
 
-REFERENCE 
-(https://github.com/tzutalin/labelImg/issues/211)  
-(https://github.com/cartr/homebrew-qt4)  
-`brew install qt-webkit@2.3`  
 
 .. code::
 
