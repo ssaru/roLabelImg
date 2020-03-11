@@ -105,6 +105,7 @@ OS X
 ^^^^
 
 (https://github.com/tzutalin/labelImg/issues/211)
+(https://github.com/cartr/homebrew-qt4)
 
 .. code::
 
