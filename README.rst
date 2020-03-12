@@ -96,7 +96,7 @@ Ubuntu Linux
 .. code::
 
     sudo apt-get install pyqt4-dev-tools
-    sudo pip install lxml
+    sudo pip install lxml, pyqt4
     make all
     ./labelImg.py
     ./labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
@@ -106,9 +106,10 @@ OS X
 
 .. code::
 
-    brew install qt qt4
+    brew install qt
     brew install libxml2
-    make all
+    pip3 install pyqt5 lxml
+    make qt5py3
     ./labelImg.py
     ./labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
 
@@ -146,7 +147,7 @@ Use Docker
     -v /tmp/.X11-unix:/tmp/.X11-unix \
     tzutalin/py2qt4
 
-You can pull the image which has all of the installed and required dependencies.  
+You can pull the image which has all of the installed and required dependencies.
 
 Usage
 -----
